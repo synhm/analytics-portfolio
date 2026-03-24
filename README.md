@@ -1,6 +1,9 @@
 # analytics-portfolio
 Quantitative analytics projects from UW Foster MSBA — pricing, causal inference, and consumer segmentation.
-## About
+## About me
+<p align="center">
+  <img src="./images/syndel-profile.jpg" width="200" title="Syndel Profile">
+</p>
 This repository contains analytics projects completed during my 
 MSBA at the University of Washington Foster School of Business. 
 Each notebook applies quantitative methods to real business problems, 
