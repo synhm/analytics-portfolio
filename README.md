@@ -1,4 +1,4 @@
-# analytics-portfolio
+# Analytics-portfolio
 Quantitative analytics projects from UW Foster MSBA — pricing, causal inference, and consumer segmentation.
 ## About me
 <p align="center">
